@@ -33,7 +33,7 @@ def speak(audio):
 
 def screenshot():
     img = pyautogui.screenshot()
-    img.save('D:/Satyam/Learning/PythonTraining/projects/J.A.R.V.I.S/screenshots/screenshot.png')
+    img.save('D:/Satyam/Learning/PythonTraining/projects/screenshots/screenshot.png')
 
 
 def cpu():
@@ -91,7 +91,7 @@ def sendEmail(to, content):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
-    server.login('satyamw64@gmail.com', 'samw3210!@#')
+    server.login('senderEmailId', 'password')
     server.sendmail('email', to, 'Subject: {}\n\n{}'.format('Message from Bot !!', content))
     server.close()
 
@@ -112,7 +112,7 @@ def joke():
 
 def screenshot():
     img = pyautogui.screenshot()
-    img.save('D:/Satyam/Learning/PythonTraining/projects/J.A.R.V.I.S/screenshots/screenshot.png')
+    img.save('D:/Satyam/Learning/PythonTraining/projects/bot/screenshots/screenshot.png')
 
 
 if __name__ == '__main__':
@@ -234,7 +234,7 @@ if __name__ == '__main__':
 
         elif 'github' in query:
             webbrowser.get('chrome').open_new_tab(
-                'https://github.com/satyamwakekar')
+                'https://github.com/swakekar')
 
         elif 'remember that' in query:
             speak("what should i remember sir")
