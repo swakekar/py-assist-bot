@@ -23,19 +23,15 @@ python3 bot.py
 
   <ul>
 <li>Send emails</li>
-  <li>Dynamic News Reporting</li>
-  <li>Todo list generator, Yes it remembers all!</li> 
-<li>Open any website with just a voice command</li>
-<li>Plays Music</li>
+  <li>Todo list generator</li> 
+<li>Open any website</li>
 <li>Tells time</li>
-<li>Wikipedia powered AI</li>
+<li>Wikipedia</li>
 <li>Dictionary with Intelligent Sensing i.e. auto checking if spell mistake</li>
 <li>Weather Report such as temp, wind speed, humidity, weather description</li>
 <li>Latitude and longitude</li>
- <li>YouTube searching</li> 
- <li>Google Map searching</a>
- <li>YouTube Downloader, download any youtube video by just putting url of video</li>
- <li>Now Master can switch b/w J.A.R.V.I.S and F.R.I.D.A.Y, switch to female voice assistant</li>
+ <li>Search YouTube</li> 
+ <li>Search Google Map</a>
 </ul>
 
 ### Examples
