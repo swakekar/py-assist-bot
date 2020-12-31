@@ -152,7 +152,7 @@ if __name__ == '__main__':
                 engine.setProperty('voice', voices[0].id)
             speak("Hello Sir, I have switched my voice. How is it?")
 
-        if 'jarvis are you there' in query:
+        if 'are you there' in query:
             speak("Yes Sir, at your service")
 
         elif 'open youtube' in query:
