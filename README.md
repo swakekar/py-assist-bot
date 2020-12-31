@@ -52,4 +52,4 @@ python3 bot.py
   <li><h2>What I say sir, Sir</h2></li>
    <li><h2>Hello There !!</h2></li>
   <li><h2> Email is sent successfully, Sir</h2></li>
-  
+ </ul>
