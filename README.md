@@ -38,18 +38,18 @@ python3 bot.py
  <li>Now Master can switch b/w J.A.R.V.I.S and F.R.I.D.A.Y, switch to female voice assistant</li>
 </ul>
 
-## Examples
+### Examples
 
-<ul>
-  
-  <li><h2> News Today</h2></li>
-  <li><h2>Ofcourse, Sir -> Then news headlines are ...</h2></li>
-  
-  <li><h2> Search Youtube</h2></li>
-  <li><h2>What you want to search, Sir</h2></li>
-  
-   <li><h2> Send Email</h2></li>
-  <li><h2>What I say sir, Sir</h2></li>
-   <li><h2>Hello There !!</h2></li>
-  <li><h2> Email is sent successfully, Sir</h2></li>
- </ul>
+```
+News Today
+Ofcourse, Sir -> Then news headlines are ...
+
+Search Youtube
+What you want to search, Sir
+
+Send Email
+What I say sir, Sir
+Hello There !!
+Email is sent successfully, Sir
+
+```
